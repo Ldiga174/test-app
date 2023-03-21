@@ -44,7 +44,7 @@ img {
     url('../fonts/OpenSansSemiBold.woff') format('woff');
   font-display: swap;
   font-weight: 600;
- 
+
 }
 
 body {
@@ -75,7 +75,7 @@ body {
   font-size: 15px;
   text-transform: uppercase;
   color: #fff;
-  background-color: #3172b9;
+  background-color: #fff;
 }
 
 .flex {
